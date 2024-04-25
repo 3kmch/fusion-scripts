@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"",
+	"description":	{
+		"":	"https://forums.autodesk.com/t5/fusion-api-and-scripts/multiple-dxf-export/td-p/7544272"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
